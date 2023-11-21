@@ -1,0 +1,274 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body, html{
+    font-family: roboto, sans-serif , arial;
+    background: #f0f3fa;
+}
+.width-100{
+    width: 100%;
+    float: left;
+}
+.container{
+    width: 1500px;
+    margin: 0px auto;
+}
+.top-header{
+    background: #2196f3;
+    padding: 5px 0px ;
+    border-bottom: 1px solid #3131315e;
+}
+.news-list{
+    background: #fff;
+    color: red;
+    padding: 6px;
+    font-size: 20px;
+}
+.headquote{
+    font-size: 18px;
+    color: #fff;
+    width: 80%;
+}
+.header-menu{
+    position: relative;
+    box-shadow: 0px 2px 5px 0px #00000036;
+}
+.logo{
+    width: fit-content;
+    float: left;
+}
+.main-menu{
+    list-style: none;
+    float: right;
+    margin-top: 20px;
+}
+.main-menu a{
+    font-weight: 500;
+    color: #3a3a3a;
+    font-size: 20px;
+    text-decoration: none;
+}
+.main-menu li{
+    float: left;
+    padding: 12px 15px;
+}
+.slider-width{
+    width: 100%;
+    height: auto;
+}
+.margin-top-50{
+    margin-top: 50px;
+
+}
+
+
+.width-33{
+    width: 33.33%;
+    float: left;
+}
+.latest-news{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+    background: white;
+    
+}
+.heading-sets{
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid #cfcfcf;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 15px;
+    border: 1px solid #cfcfcf;
+    padding-top: 15px;
+    padding-left: 15px;
+    background: #00aed9;
+   color: white;
+
+}
+.head-title{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+.latest-news-ul{
+    padding: 0;
+    list-style: none;
+    line-height: 40px;
+}
+.event-list{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+    background: white;
+}
+.upcoming-event-list{
+    padding: 0px;
+    list-style: none;
+}
+.upcoming-event-list li{
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}
+.event-date{
+    background: #03a9f4;
+    width: 30px;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    padding: 8px;
+    margin-right: 10px;
+}
+.notice-board{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+    background: white;
+}
+.notice-board-list{
+    padding: 0px;
+    list-style: none;
+    line-height: 40px;
+}
+.notice-board-list li{
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}
+.our-pri{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+    background: white;
+}
+.useful-info-ul{
+    list-style: none;
+}
+.useful-info-ul li{
+    margin-bottom: 15px;
+    border-bottom: 1px solid #d7d7d7;
+    padding-bottom: 15px;
+}
+.useful-info-ul a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.gov-sec-style{
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+.width-10{
+    width: 70%;
+    height: 100%;
+    
+}
+.width-40{
+    width: 40%;
+    float: left;
+}
+
+.width-60{
+    width: 60%;
+    float: left;
+}
+.about-us{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+    background: white;
+}
+.top-fa{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+    background: white;
+}
+.top-fa ul {
+    list-style: none;
+}
+.top-fa li{
+    color: black;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #d7d7d7;
+}
+.top-fa li a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-weight: bold;
+}
+.gallery{
+    font-size: 20px;
+    color: #4b4848;
+    margin-bottom: 5px;
+    background: #fff;
+    padding: 2px 0px ;
+    border: 1px solid #cfcfcf;
+}
+.gallery-img{
+    height: 250px;
+    width: auto;
+}
+.width-25{
+    float: left;
+   width: 25%;
+}
+.f-thr{
+    display: flex;
+    width: auto;
+}
+.s-thr{
+    display: flex;
+    width: auto;
+}
+.f-th{
+    margin: 3px;
+    padding: 3px;
+}
+.s-three{
+    margin: 3px;
+    padding: 3px;
+}
+.footer{
+    background: #232f3e;
+    padding: 50px 0px;
+    
+}
+.quicklink-menu{
+    list-style: none;
+    padding-left: 10px;
+}
+.quicklink-heading{
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.quicklink-menu li a{
+    text-decoration: none;
+    color: white;
+    line-height: 2.5;
+    font-size: 15px;
+}
+
